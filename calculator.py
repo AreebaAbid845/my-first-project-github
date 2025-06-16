@@ -21,6 +21,8 @@ def main():
     else:
         print("Invalid choice")
 
+    print("Thanks for using the calculator!")
+
 # This is my modification for the 2nd commit
 
 if __name__ == "__main__":
