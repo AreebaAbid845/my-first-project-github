@@ -5,6 +5,7 @@ def subtract(x, y):
     return x - y
 
 def main():
+    print("=== Welcome to the Calculator App ===")
     print("Simple Calculator")
     print("1. Add")
     print("2. Subtract")
